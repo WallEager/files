@@ -1,0 +1,12 @@
+pull request explanation
+
+when you want to commit changed in someone's project, fork to get the banch of project
+and after making changed pull request so that master updates it.
+
+Steps to push a project
+
+make git init
+get a url domain from git
+add file to that url -a
+commit with a message -m 
+then push
